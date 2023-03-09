@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChatGpt</string>
+    <string name="enter_question_hint">Enter question hint</string>
+    <string name="send_button_text">Send button text</string>
+    <string name="ai_response">AI Response</string>
+    <string name="message_input_hint">message_input_hint</string>
+</resources>
