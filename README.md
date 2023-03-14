@@ -1,4 +1,4 @@
-Video demo: https://www.youtube.com/watch?v=zeUguIVHFmg
+Video demo: https://www.youtube.com/watch?v=A65ajjL4KDQ
 
 
 ChatGPT App nativa creada en kotlin. 
